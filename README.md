@@ -18,7 +18,7 @@ Mendukung operasi CRUD: membuat, membaca, memperbarui, dan menghapus data pengal
 
 1. Clone repo ini
    ```bash
-   git clone git@github.com:namamu/pengalaman-api.git
+   git clone git@github.com:Flaming-hell/Pengalaman-api.git
    cd pengalaman-api
 
 2. Buat virtual environment dan aktifkan
