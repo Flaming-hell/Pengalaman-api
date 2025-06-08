@@ -33,12 +33,17 @@ pip install flask
 
 
 
+
+---
+
 Menjalankan aplikasi
 
 python app.py
 
 Aplikasi akan berjalan di http://localhost:5000
 
+
+---
 
 Contoh Request API
 
@@ -63,6 +68,9 @@ DELETE pengalaman kerja
 curl -X DELETE http://localhost:5000/experiences/1
 
 
+
+---
+
 Struktur File
 
 pengalaman-api/
@@ -73,14 +81,18 @@ pengalaman-api/
 └── README.md        # Dokumentasi proyek
 
 
+---
+
 Lisensi
 
 Proyek ini menggunakan lisensi MIT. Silakan gunakan dan modifikasi sesuai kebutuhan.
 
+
+---
 
 Kontak
 
 Jika ada pertanyaan atau ingin berkontribusi, silakan hubungi:
 nama@example.com
 
-
+---
