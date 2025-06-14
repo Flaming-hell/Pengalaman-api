@@ -82,6 +82,6 @@ Proyek ini menggunakan lisensi MIT. Silakan gunakan dan modifikasi sesuai kebutu
 ## Kontak
 
 Jika ada pertanyaan atau ingin berkontribusi, silakan hubungi:
-nama@example.com
+backv415@gmail.com
 
 ---
